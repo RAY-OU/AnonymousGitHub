@@ -34,7 +34,7 @@ We provide additional qualitative evidence to address the AC and reviewers' conc
 
 **Setup.** Three-column comparisons: 40-step Teacher / DMD2 (4-step) / GradHarmon (4-step).
 
-![More Results](rebuttal_more_results_p1.png)
+![More Results](rebuttal_more_results.pdf)
 
 As shown above, DMD2 (4-step) suffers from texture smoothing (feather barbs flattened, fur collapsed into blobs, fabric wrinkles lost) and color over-saturation (Union Jack pushed to pure red/blue, emblem shifted to unnatural gold). GradHarmon addresses both through SGB (restoring fine-grained textures) and SPA (correcting color distribution), achieving visual quality on par with the 40-step teacher — preserving individual feather structures, strand-level fur detail, realistic color gradients, and three-dimensional material quality across all examples.
 
